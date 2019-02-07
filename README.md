@@ -1,6 +1,6 @@
 # Cash-Register-with-Vanilla-JS
 ## Task
-Build cash register that will take price and amount that customer would like to pay and show how much of each currency you have to give to the customer. There are three scenarios. 
+Build a cash register that will take price and amount that customer would like to pay and show how much of each currency you have to give to the customer. There are three scenarios.
 
 ### First
 Customer will pay more than the price and will get a change.
